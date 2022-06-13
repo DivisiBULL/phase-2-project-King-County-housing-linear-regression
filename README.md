@@ -23,4 +23,6 @@ Features that can be remodeled:
 - Condition
 - Floors
 - Bathrooms
+
+
 The notebook will show my process and provide more in depth recommendations
