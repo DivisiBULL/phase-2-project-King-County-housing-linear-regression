@@ -34,7 +34,7 @@ For non continuous variables such as waterfront_YES we can interpret it as when 
 
 # Final Model
 
-![alt text](phase-2-project-King-County-housing-linear-regression/final_model_png.PNG at main · DivisiBULL/phase-2-project-King-County-housing-linear-regression (github.com)?raw=true)
+![alt text](https://github.com/DivisiBULL/phase-2-project-King-County-housing-linear-regression/blob/main/pngs/final_model_png.PNG?raw=true)
 
 # Recommendations
 Here is a quick look at my final recommendations
@@ -57,9 +57,9 @@ Features that can be remodeled:
 
 # Assumptions check
 
-![alt text](phase-2-project-King-County-housing-linear-regression/final_model_qqplot.PNG at main · DivisiBULL/phase-2-project-King-County-housing-linear-regression (github.com)?raw=true)
+![alt text](https://github.com/DivisiBULL/phase-2-project-King-County-housing-linear-regression/blob/main/pngs/final_model_qqplot.PNG?raw=true)
 
-![alt text](phase-2-project-King-County-housing-linear-regression/final_model_Homoscedasticity_check.PNG at main · DivisiBULL/phase-2-project-King-County-housing-linear-regression (github.com)?raw=true)
+![alt text](https://github.com/DivisiBULL/phase-2-project-King-County-housing-linear-regression/blob/main/pngs/final_model_Homoscedasticity_check.PNG?raw=true)
 
 
 Since we do not strictly pass several of our assumption checks I would not be too confident in the accuracy of the model's coefficients. 
