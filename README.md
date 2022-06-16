@@ -71,16 +71,22 @@ We can break our suggestions down to 2 main categories
 Features to consider when buying:
 
 -in_bellevue - 38% increase for being in bellevue compared to other zips
+
 -In_seattle - 19% increase for being in Seattle compared to other zips
+
 -waterfront - 34% increase for having a waterfront
+
 -View - 9% increase possible (from No view to excellent view)
 
 
 Features that can be remodeled:
 
 -Condition - -48% increase from poor to excellent
+
 -Floors - 9% increase for each floor
+
 -Bathrooms - 5% increase for each bathroom added
+
 
 # Assumptions check
 
